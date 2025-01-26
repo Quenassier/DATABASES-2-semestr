@@ -9,5 +9,5 @@
 ```sql
 SELECT * FROM person WHERE address = 'Kazan';
 
-![Скриншот данных в pgAdmin](.screenshot00.png)
+![Скриншот данных в pgAdmin](./screenshot00.png)
 
