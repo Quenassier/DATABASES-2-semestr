@@ -9,5 +9,5 @@
 ```sql
 SELECT * FROM person WHERE address = 'Kazan';
 
-![Скриншот данных в pgAdmin](https://github.com/Quenassier/DATABASES-2-semestr/blob/main/screenshot00.png))
+![Скриншот данных в pgAdmin](https:/github.com/Quenassier/DATABASES-2-semestr/blob/main/screenshot00.png))
 
