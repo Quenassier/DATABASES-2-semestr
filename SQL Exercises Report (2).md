@@ -1,4 +1,4 @@
-# SQL Queries and Screenshots
+# ПЕРВАЯ РАБОТА DAY00
 
 ## Exercise 00 — First Steps in SQL
 **Query:**
